@@ -1,0 +1,21 @@
+name: Generate GitHub Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # jalan otomatis tiap hari jam 00:00 UTC
+  workflow_dispatch: {}    # bisa dijalankan manual dari tab Actions
+  push:
+    branches:
+      - main
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate stats images
+        uses: jstrieb/github-stats@master
+        with:
+          username: marcoyuma
+          github_token: ${{ secrets.GITHUB_TOKEN }}
