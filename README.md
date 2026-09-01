@@ -10,18 +10,6 @@
 
 <br/>
 
-## 👋 About Me
-
-I'm an undergraduate **Software Engineering** student (7th semester) at **Universitas Bina Sarana Informatika**, focused on **frontend development with React & Next.js**. I like building things that survive contact with production — data integrity at the database layer, auth flows that don't leak, and rendering architecture that actually scales.
-
-- 🎓 B.Sc. Software Engineering — GPA **3.76 / 4.00**
-- 🛠️ Currently building **The Seaspace** — a full villa booking platform + admin panel
-- 📚 Currently learning **Web Security** (OWASP-based, starting from CSP)
-- 💼 **Open to Frontend Engineer internship opportunities**
-- 🌐 Reading/listening English proficiency above B1 (Busuu assessed)
-
-<br/>
-
 ## 🧰 Tech Stack
 
 **Frontend**
@@ -44,26 +32,6 @@ I'm an undergraduate **Software Engineering** student (7th semester) at **Univer
 
 <br/>
 
-## 🚀 Featured Project — The Seaspace
-
-**Guest-facing villa booking platform** built with Next.js 16, React 19, and Supabase — live availability, simulated payments, self-service check-in (door codes + QR), guest accounts, and reviews.
-
-🔗 [the-seaspace-seven.vercel.app](https://the-seaspace-seven.vercel.app)
-
-| Area | What was done |
-|---|---|
-| **Rendering** | Combined static prerendering (`generateStaticParams`) with per-request Supabase session data using `cacheComponents` |
-| **Architecture** | Three scoped Supabase client instances (server / browser / admin), each with different access levels and caching rules |
-| **Data integrity** | Double-booking prevented at the database level with a PostgreSQL **GiST exclusion constraint** |
-| **Security** | Access control enforced entirely at the Postgres layer via **Row-Level Security** + `SECURITY DEFINER` RPC functions — no extra ORM needed |
-| **Privacy** | Stripped EXIF location metadata from uploaded images with `sharp` before storing in Supabase Storage |
-| **UX detail** | Fixed a client-server hydration mismatch in date calculations using `useSyncExternalStore` |
-| **Check-in flow** | Server-side QR code generation straight to SVG, error-correction level M |
-
-<p> <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> </p>
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -74,26 +42,6 @@ I'm an undergraduate **Software Engineering** student (7th semester) at **Univer
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoyuma&theme=tokyonight&hide_border=true" />
 </div>
-
-<br/>
-
-## 🎓 Certifications
-
-<details>
-<summary>Click to expand</summary>
-<br/>
-
-- Advanced React — Meta (2026)
-- Learn Next.js — Scrimba (2026)
-- Programming with JavaScript — Meta (2026)
-- Learn TypeScript — Scrimba (2026)
-- React Basics — Meta (2024)
-- Belajar Membuat Aplikasi Web dengan React — Dicoding (2024)
-- Belajar Membuat Front-End Web untuk Pemula — Dicoding (2024)
-- Fundamental Proyek Manajemen — Dicoding (2024)
-- Cloud Practitioner Essentials (Belajar Dasar AWS Cloud) — Dicoding (2024)
-
-</details>
 
 <br/>
 
