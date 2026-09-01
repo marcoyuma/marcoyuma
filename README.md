@@ -1,10 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Marco%20Yumarafi'i%20Nursaid&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=210&section=header&text=Marco%20Yumarafi'i%20Nursaid&fontSize=40&fontColor=ffffff&fontAlignY=34&desc=Frontend%20Engineer%20%C2%B7%20Next.js%20%26%20React%20Specialist&descAlignY=54&descSize=17&descColor=E0F2FE&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/marcoyuma">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Frontend+Engineer+in+the+making;Next.js+%7C+React+%7C+TypeScript;Turning+production+concerns+into+shipped+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Shipping+production-grade+Next.js+%2B+Supabase+apps;Row-Level+Security+%C2%B7+GiST+constraints+%C2%B7+SSR+caching;Currently+leveling+up+in+Web+Security+(OWASP)" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Status-Open%20to%20Frontend%20Internship-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Jakarta%2C%20Indonesia-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 </div>
 
@@ -35,12 +40,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=marcoyuma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoyuma&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=marcoyuma&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcoyuma&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=marcoyuma&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=marcoyuma&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
